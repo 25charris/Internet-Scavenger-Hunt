@@ -1,0 +1,26 @@
+body {
+  background-color: #C1EAF2
+;
+}
+
+h1 {
+  color: #AF3734;
+}
+
+
+
+h3 {
+  color: #A26969;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #A26969;
+  height: 0;
+  width: 69%;
+  border-width: 5px;
+}
+a {
+  color: #AF3734;
+}
